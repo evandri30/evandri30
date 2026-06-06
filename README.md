@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Evandri Ridho Hasmono from Indonesia<br><br>- 🔭 I’m Student Informatics<br>- 📚 I'm currently learning Data Analayst<br>- ⚡ In my free time I Sleep</p>
+<p align="left">I'm Evandri Ridho Hasmono from Indonesia<br><br>- 🔭 I'm an Informatics Student<br>- 📚 I'm currently learning Data Analyst<br>- ⚡ In my free time I Sleep</p>
 
 ###
 
